@@ -1,5 +1,5 @@
 ﻿#1.Soru
-
+  
 ##x=int(input("Finansman geliri giriniz:"))
 ##y=int(input("Pazar geliri giriniz:"))
 ##z=int(input("Kira geliri giriniz:"))
